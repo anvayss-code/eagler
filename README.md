@@ -1,2 +1,2 @@
 # eagler
-Play EaglercraftX 1.8.8.
+V 1.8.8
